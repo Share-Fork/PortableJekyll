@@ -2,7 +2,7 @@ Portable Jekyll
 ==============
 # [solve window10](http://stackoverflow.com/questions/26984061/ruby-kernel-require-rb54-in-require-cannot-load-such-file-from-github-rep)
 # API en:https://jekyllrb.com/docs/home/
-      zh:http://jekyll.com.cn/docs/home/
+# API zh:http://jekyll.com.cn/docs/home/
 
 The portable version contains everything which is required to run Jekyll v3.2.1 on Windows:
 
